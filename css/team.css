@@ -56,8 +56,8 @@
   gap: 8px;
 }
 
-.team h3,
-.team p {
+.team-name,
+.team-position {
   margin: 0;
 }
 
@@ -83,4 +83,8 @@
 .social-link:hover,
 .social-link:focus {
   background-color: #404bbf;
+}
+
+.social-icon {
+  color: #f4f4fd;
 }
